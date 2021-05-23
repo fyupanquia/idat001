@@ -1,0 +1,6 @@
+a. Write a program that calculates the salary of a worker as follows. The worker charges a fixed price per hour and is discounted 15% for income tax. The program should ask for the worker's name, hours worked, and the price charged per hour. As output you must print the gross salary, the rent discount and the salary to be paid.
+b. A student wants to know what his final grade will be in the subject of Computational Logic. This qualification is made up of three partial exams whose weighting is 30%, 30% and 40%.
+c. You have to calculate the area of ​​a rhombus, taking into account that: area = (major_diagonal*minor_diagonal)/2
+d. Read a 4-digit number, show the highest and lowest number as a result.
+e. Make a program that receives a number of minutes and shows on the screen how many hours and minutes correspond. For example: 1000 minutes is 16 hours and 40 minutes
+f. Two vehicles travel at different speeds (v1 and v2) and are separated by a distance d. The one behind it travels at a higher speed. It is requested to make an algorithm to enter the distance between the two vehicles (km) and their respective speeds (km / h) and with this determine and show in what time (minutes) the vehicle will reach the other faster.
