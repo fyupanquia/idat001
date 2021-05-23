@@ -14,6 +14,6 @@ else:
 
     print("")
     print("*"*10)
-    print(f" vehicle({behind_vehicle}km/h) ----------- {distance} ----------------- vehicle({front_vehicle}km/h)")
+    print(f" vehicle({behind_vehicle}km/h) ----------- {distance}km ----------------- vehicle({front_vehicle}km/h)")
     print("")
     print(f"Meet time: {time_minutes} minutes")
