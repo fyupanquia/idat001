@@ -1,4 +1,4 @@
-number=float(input("Enter a four digits number: "))
+number=int(input("Enter a four digits number: "))
 
 thousand = int(number/1000)
 number = number%1000
